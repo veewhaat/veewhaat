@@ -5,27 +5,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🏫 [LMS – Library Management System](https://github.com/veewhaat/LMS-Library-Management-System)
-
----
-
-### 🍽️ [ROS – Restaurant Ordering System](https://github.com/veewhaat/ROS-Restaurant-Ordering-System)
-
-
----
-
-### 📱 [Workshop 2 (Flutter App)](https://github.com/veewhaat/c1nnamonz)
-
-
----
-
-### 💼 [Web Portfolio](https://github.com/veewhaat/Web-Portfolio)
-
-
----
-
 ## 🧠 Skills
 
 | Category | Technologies |
