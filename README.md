@@ -1,9 +1,3 @@
-# Hi, I'm Vishaall Kanagasabai 
-
-🎓 **Computer Science (Software Development)** student passionate about creating impactful applications and user-friendly digital solutions.  
-💡 I enjoy working on full-stack systems — from **web development (PHP, MySQL)** to **mobile applications (Flutter, Firebase)**.
-
----
 <p align="center">
   <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp" alt="Animated Banner" width="200"/>
   <!-- <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy.gif" alt="Animated Banner" width="200"/>
@@ -11,6 +5,14 @@
   <!-- <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy (1).webp" alt="Animated Banner" width="400" /> -->
   <!-- <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200.webp" alt="Animated Banner" width="200"/> -->
 </p>
+
+# Hi, I'm Vishaall Kanagasabai 
+
+🎓 **Computer Science (Software Development)** student passionate about creating impactful applications and user-friendly digital solutions.  
+💡 I enjoy working on full-stack systems — from **web development (PHP, MySQL)** to **mobile applications (Flutter, Firebase)**.
+
+---
+
 
 
 ## 📊 GitHub Stats
@@ -35,13 +37,6 @@
 | **Database** | MySQL, Firebase Firestore |
 | **Tools & IDEs** | Android Studio, Eclipse, Visual Studio Code |
 | **Version Control** | Git & GitHub |
-
----
-
-## 🌱 Currently Learning
-- Mobile app integration with Firebase  
-- RESTful API & backend optimization  
-- UI/UX design and responsive layouts  
 
 ---
 
