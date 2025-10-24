@@ -4,6 +4,9 @@
 💡 I enjoy working on full-stack systems — from **web development (PHP, MySQL)** to **mobile applications (Flutter, Firebase)**.
 
 ---
+<p align="center">
+  <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp" alt="Animated Banner" width="400"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -39,7 +42,6 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/vishaall-kanagasabai/)
-- ✅ (https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp) 
 - 🐙 [GitHub](https://github.com/veewhaat)  
 - ✉️ Email: *[vishaallngat@gmail.com]*  
 
