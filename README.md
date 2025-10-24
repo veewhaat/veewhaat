@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp" alt="Animated Banner" width="400"/>
+  <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp" alt="Animated Banner" width="600"/>
 </p>
 
 ## 📊 GitHub Stats
