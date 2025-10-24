@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/vishaall-kanagasabai)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishaall-kanagasabai/)  
 - 🐙 [GitHub](https://github.com/veewhaat)  
 - ✉️ Email: *[vishaallngat@gmail.com]*  
 
