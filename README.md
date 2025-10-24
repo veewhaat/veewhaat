@@ -5,17 +5,6 @@
 
 ---
 
-## 🧠 Skills
-
-| Category | Technologies |
-|-----------|---------------|
-| **Programming Languages** | Java, PHP, Dart, HTML, CSS, JavaScript,Kotlin |
-| **Frameworks & Libraries** | CakePHP, Flutter, Bootstrap |
-| **Database** | MySQL, Firebase Firestore |
-| **Tools & IDEs** | Android Studio, Eclipse, Visual Studio Code |
-| **Version Control** | Git & GitHub |
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -26,6 +15,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veewhaat&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
 </p>
+
+---
+
+## 🧠 Skills
+
+| Category | Technologies |
+|-----------|---------------|
+| **Programming Languages** | Java, PHP, Dart, HTML, CSS, JavaScript,Kotlin |
+| **Frameworks & Libraries** | CakePHP, Flutter, Bootstrap |
+| **Database** | MySQL, Firebase Firestore |
+| **Tools & IDEs** | Android Studio, Eclipse, Visual Studio Code |
+| **Version Control** | Git & GitHub |
 
 ---
 
