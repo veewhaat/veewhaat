@@ -9,7 +9,7 @@
 
 | Category | Technologies |
 |-----------|---------------|
-| **Programming Languages** | Java, PHP, Dart, HTML, CSS, JavaScript |
+| **Programming Languages** | Java, PHP, Dart, HTML, CSS, JavaScript,Kotlin |
 | **Frameworks & Libraries** | CakePHP, Flutter, Bootstrap |
 | **Database** | MySQL, Firebase Firestore |
 | **Tools & IDEs** | Android Studio, Eclipse, Visual Studio Code |
@@ -37,9 +37,9 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/vishaall-kanagasabai)  
 - 🐙 [GitHub](https://github.com/veewhaat)  
-- ✉️ Email: *[your.email@example.com]*  
+- ✉️ Email: *[vishaallngat@gmail.com]*  
 
 ---
 
