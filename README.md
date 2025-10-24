@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishaall Kanagasabai (@veewhaat)
+# Hi, I'm Vishaall Kanagasabai 
 
 🎓 **Computer Science (Software Development)** student passionate about creating impactful applications and user-friendly digital solutions.  
 💡 I enjoy working on full-stack systems — from **web development (PHP, MySQL)** to **mobile applications (Flutter, Firebase)**.
