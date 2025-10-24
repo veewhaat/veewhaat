@@ -8,7 +8,7 @@
   <!-- <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp" alt="Animated Banner" width="200"/>
   <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy.gif" alt="Animated Banner" width="200"/>
   <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy.webp" alt="Animated Banner" width="200"/> -->
-  <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy (1).webp" alt="Animated Banner" width="200" length="500"/>
+  <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/giphy (1).webp" alt="Animated Banner" width="500" length="500"/>
   <!-- <img src="https://github.com/veewhaat/veewhaat/blob/main/asset/200.webp" alt="Animated Banner" width="200"/> -->
 </p>
 
