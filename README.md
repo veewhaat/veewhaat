@@ -38,7 +38,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishaall-kanagasabai/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vishaall-kanagasabai/)
+- ✅ (https://github.com/veewhaat/veewhaat/blob/main/asset/200w.webp) 
 - 🐙 [GitHub](https://github.com/veewhaat)  
 - ✉️ Email: *[vishaallngat@gmail.com]*  
 
